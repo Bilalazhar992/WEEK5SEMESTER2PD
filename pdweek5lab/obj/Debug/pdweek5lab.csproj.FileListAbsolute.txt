@@ -1,0 +1,7 @@
+C:\Users\uet\Desktop\PRACTICING C SHARP\pdweek5lab\pdweek5lab\bin\Debug\pdweek5lab.exe.config
+C:\Users\uet\Desktop\PRACTICING C SHARP\pdweek5lab\pdweek5lab\bin\Debug\pdweek5lab.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\pdweek5lab\pdweek5lab\bin\Debug\pdweek5lab.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\pdweek5lab\pdweek5lab\obj\Debug\pdweek5lab.csproj.AssemblyReference.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\pdweek5lab\pdweek5lab\obj\Debug\pdweek5lab.csproj.CoreCompileInputs.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\pdweek5lab\pdweek5lab\obj\Debug\pdweek5lab.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\pdweek5lab\pdweek5lab\obj\Debug\pdweek5lab.pdb
